@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --Desaturated-Dark-Cyan: #407676;
+  --Light-Grayish-Cyan1: #effafa;
+  --Light-Grayish-Cyan2: #91caca;
+  --Dark-Grayish-Cyan: #687878;
+  --Very-Dark-Grayish-Cyan: #2c3a3a;
+  --card-shadow: #5ba4a467;
+  --shadow: 0 6px 10px 1px var(--card-shadow);
+}
+* {
+  font-family: "League Spartan", sans-serif;
+}
